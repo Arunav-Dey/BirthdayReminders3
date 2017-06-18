@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1032730830540",
+    "firebase_url": "https://birthdayreminders3.firebaseio.com",
+    "project_id": "birthdayreminders3",
+    "storage_bucket": "birthdayreminders3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032730830540:android:4a5c0c9f6bae742b",
+        "android_client_info": {
+          "package_name": "util.ltd.deysoftwares.birthdayreminders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032730830540-9i378vd4johh2jm5s8504da6mj2tcub1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "util.ltd.deysoftwares.birthdayreminders",
+            "certificate_hash": "eaccd796175c0b3a076cf8ceb7f06b51aea2c24a"
+          }
+        },
+        {
+          "client_id": "1032730830540-2vc0e3t19lqn44pgfgr8jdbmo0q00un2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZXVO7PgMEkAKLqaX-IqM7ggi4xuxwFxo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032730830540-2vc0e3t19lqn44pgfgr8jdbmo0q00un2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
